@@ -2,7 +2,7 @@
 
 I am a Full Stack software engineer from Sri Lanka. I am currently working on React and PHP projects. I have the expertise in designing frameworks based on design principles which improves developer performance & productivity.
 
-The tools currently I use are: <img src="https://user-images.githubusercontent.com/2134347/195903657-1eab305a-dcfd-4f34-bd13-b06d9d7f0998.png" width="25"> ReactJS, 
+The tools currently I use are: <img src="https://user-images.githubusercontent.com/2134347/195903657-1eab305a-dcfd-4f34-bd13-b06d9d7f0998.png" width="25"> ReactJS and 
 <img src="https://user-images.githubusercontent.com/2134347/195904033-f683a071-3314-499c-a831-2c2f046b4871.png" width="25"> Laravel
 
 <!--

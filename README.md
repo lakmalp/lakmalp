@@ -8,7 +8,7 @@ The tools currently I use are:
 <img src="https://user-images.githubusercontent.com/2134347/195891567-d935aee6-fa81-4263-a8d6-bca4781031fa.png" height="50">
 
 <img src="https://user-images.githubusercontent.com/2134347/195893338-645fccbf-9d92-45b9-9f5f-83cf962575d3.png" height="50">
-![image](https://user-images.githubusercontent.com/2134347/195894012-595a12b9-2693-495d-954d-ac484d2eb29e.png)
+<img src="https://user-images.githubusercontent.com/2134347/195894012-595a12b9-2693-495d-954d-ac484d2eb29e.png" height="50">
 
 
 <!--

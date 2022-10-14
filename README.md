@@ -2,10 +2,12 @@
 
 I am a Full Stack software engineer from Sri Lanka. I am currently working on React and PHP projects. I have the expertise in designing frameworks based on design principles which improves developer performance & productivity.
 
-The tools currently I use are: <img src="https://user-images.githubusercontent.com/2134347/195903657-1eab305a-dcfd-4f34-bd13-b06d9d7f0998.png" width="25"> ReactJS and 
+The tools currently I use are <img src="https://user-images.githubusercontent.com/2134347/195903657-1eab305a-dcfd-4f34-bd13-b06d9d7f0998.png" width="25"> ReactJS and 
 <img src="https://user-images.githubusercontent.com/2134347/195904033-f683a071-3314-499c-a831-2c2f046b4871.png" width="25"> Laravel
 
-Connect with me: <a href="https://www.linkedin.com/in/lakmalpremaratne/" ><img src="https://user-images.githubusercontent.com/2134347/195905633-3caba46f-20d2-4e74-998a-1b585a4297af.png" width="20"></a>
+Connect with me:
+
+<a href="https://www.linkedin.com/in/lakmalpremaratne/" ><img src="https://user-images.githubusercontent.com/2134347/195905633-3caba46f-20d2-4e74-998a-1b585a4297af.png" width="20"></a>
 
 <!--
 **lakmalp/lakmalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

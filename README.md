@@ -4,8 +4,8 @@ I am a Full Stack software engineer from Sri Lanka. I am currently working on Re
 
 The tools currently I use are:
 
-<img src="https://user-images.githubusercontent.com/2134347/195891166-f09e2ec7-4ca9-4867-8bbd-b7b6c5917463.png" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/2134347/195891567-d935aee6-fa81-4263-a8d6-bca4781031fa.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/2134347/195891166-f09e2ec7-4ca9-4867-8bbd-b7b6c5917463.png" height="50">
+<img src="https://user-images.githubusercontent.com/2134347/195891567-d935aee6-fa81-4263-a8d6-bca4781031fa.png" height="50">
 
 <!--
 **lakmalp/lakmalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+I am a Full Stack software engineer from Sri Lanka. I am currently working on React and PHP projects. I have the expertise in designing frameworks based on design principles which improves developer performance & productivity.
 
+The tools currently I use are:
+![ReactJS](https://user-images.githubusercontent.com/2134347/195890909-ac18ab53-b512-4f69-8df0-b7fe9e2e13bf.png)
+
+
+<!--
 **lakmalp/lakmalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
